@@ -1,1 +1,0 @@
-Sistema de leitura de temperatura e umidade com ESP32, interface em Tkinter e registro em CSV para acompanhamento em tempo real e armazenamento básico das medições.
